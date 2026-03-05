@@ -1,6 +1,6 @@
 # Synthetic Fractals
 
-GPU-driven animated fractal renderer with optional music-reactive color modulation and frame recording.
+GPU-driven realtime animated fractal renderer with optional music-reactive color modulation and frame recording.
 
 ![Fractal Preview](assets/preview.gif)
 
